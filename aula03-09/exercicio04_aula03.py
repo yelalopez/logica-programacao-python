@@ -2,7 +2,7 @@ nome_atleta = True
 cont = 1
 saltos = []
 
-while nome_atleta != "Salir":
+while nome_atleta != "Sair":
   print('Atleta', cont)
   nome_atleta = input('Insira o nome do atleta: ').capitalize()
   if nome_atleta == "Sair":
