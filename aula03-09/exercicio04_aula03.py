@@ -18,7 +18,7 @@ while nome_atleta != "Sair":
   print(f'Atleta: {nome_atleta}')
   
   for i in range(5):
-    print(f'{i+1}º salto: {saltos[i]} m')
+    print(f'{i+1}º salto: {saltos[i]}m')
 
-  print(f'Média dos saltos: {media:.2f} m\n')
+  print(f'Média dos saltos: {media:.2f}m\n')
   cont+=1

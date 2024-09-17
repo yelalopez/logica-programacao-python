@@ -6,5 +6,6 @@ for i in range(qtd):
   pesos.append(peso)
 
 print(f'O peso médio das vendas é de {sum(pesos) / qtd:.2f}')
-print(f'Peso minimos: {min(pesos)}')
+print(f'Peso minimo: {min(pesos)}')
 print(f'Peso máximo: {max(pesos)}')
+print(f'Total arrecadado no dia: {sum(pesos)}')
