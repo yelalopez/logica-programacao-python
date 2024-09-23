@@ -1,0 +1,4 @@
+Há 3 pessoas cadastradas.
+Nome: Sicrano Perez Idade: 20
+Nome: Belcrano Perez Idade: 27
+Nome: Fulano Suarez Idade: 40
