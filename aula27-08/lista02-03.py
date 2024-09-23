@@ -1,3 +1,12 @@
+'''
+Faça um algorítmo que receba idade de 6 pessoas. Por fim, o algirítmo deve informar:
+
+- Quantas idades foram lidas;
+- maior idade;
+- menor idade;
+- média das idades 
+'''
+
 idades = []
 for i in range(6):
   idade = int(input(f'Informe a {i+1}ª idade: '))

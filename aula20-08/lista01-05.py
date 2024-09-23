@@ -1,3 +1,7 @@
+'''
+Ler o nome de 2 times e o número de gols marcados na partida (para cada time). Escrever o nome do vencedor. Caso não haja vencedor, deverá ser impressa a palavra EMPATE
+'''
+
 equipe1 = input('Nome do time 1: ')
 gols_equipe1 = int(input('Gols marcados time 1: '))
 equipe2 = input('Nome do time 2: ')

@@ -1,3 +1,19 @@
+'''
+Uma loja de roupa está em promoção: Acima de 2 peças de roupas compradas e fazendo o pagamento à vista, o cliente tem 20% de desconto no valor total.
+
+Faça um algorítmo que receba:
+
+- A quantidade de peças compradas
+- O valor total da compra
+- O código referente a condição de pagamento
+
+1. À vista
+2. Crédito
+3. Crédito parcelado
+
+Por fim, o algorítmo deverá apresentar uma mensagem informando se o desconto foi aplicado, e em caso positivo, o novo valor da compra
+'''
+
 roupas = int(input('Insira a quantidade de roupas compradas: '))
 valor_total_compra = float(input('Valor total da compra $'))
 forma_pagamento = int(input('Forma de pagamento: \n[1] À vista \n[2] Crédito \n[3] Crédito parcelado \nInsira a opcão: '))

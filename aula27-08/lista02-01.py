@@ -1,3 +1,7 @@
+'''
+Desenvolva um programa para ler a quantidade de pessoas de um grupo. Para cada integrante, informe o peso. O algorítmo deverá imprimir a média dos pesos e quantos estão acima de 80kg
+'''
+
 num = int(input('Insira a quantidade de pessoas do grupo: '))
 soma = 0
 acima_de_80 = 0
